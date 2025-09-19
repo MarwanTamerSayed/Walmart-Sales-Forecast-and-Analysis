@@ -18,7 +18,7 @@ The main model applied is **XGBoost**, along with data preprocessing, feature en
 ## 📂 Repository Structure
 ```bash
 Walmart-Sales-Forecast-and-Analysis/
-│── data/                # Dataset (not included due to size)
+│── data/                # Dataset 
 │── notebooks/           # Jupyter notebooks with code
 │── dashboard/           # Power BI dashboard files
 │── README.md            # Project documentation
